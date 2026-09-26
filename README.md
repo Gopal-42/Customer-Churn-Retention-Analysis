@@ -1,4 +1,32 @@
-# 📊 Customer Churn & Retention Analysis
+# 📊 Customer Churn & Retention Analysis (Shorter Preview)
+
+> End-to-end customer churn analysis using **MySQL, SQL, Power BI, DAX, Excel & Power Query**.
+
+Analyzed **7,043 customers** to identify churn patterns across contract type,
+tenure, payment method, internet service, customer support and customer demographics.
+
+### 🔑 Key Results
+
+| Metric | Value |
+|---|---:|
+| Total Customers | 7,043 |
+| Churned Customers | 1,869 |
+| Overall Churn Rate | 26.54% |
+| Avg. Monthly Charges | 64.76 |
+| Avg. Tenure | 32.37 Months |
+
+### 🛠️ Tech Stack
+
+`MySQL` `SQL` `Power BI` `DAX` `Excel` `Power Query`
+
+## 📊 Dashboard Preview
+
+![Overview Dashboard](./Customer-Churn-Overview.png)
+
+![Customer Analysis Dashboard](./Customer-Churn-Analysis.png)
+
+
+# 📊 Customer Churn & Retention Analysis (Detailed)
 
 An end-to-end **Customer Churn & Retention Analysis** project
 demonstrating practical skills in **MySQL SQL, Microsoft Power BI,
